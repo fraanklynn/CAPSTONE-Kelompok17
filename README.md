@@ -28,3 +28,23 @@
 
 # USE CASE
 <img width="943" height="1391" alt="Copy of Flowchart CAPSTONE-USE CASE drawio" src="https://github.com/user-attachments/assets/c408893b-f4b9-46a7-890e-5c41746886f4" />
+
+# Deskripsi Singkat Program
+
+# Fitur Program
+
+# Penerapan 5 Pilar OOP
+
+## Encapsulation
+
+## Inheritance
+
+## Abstraction
+
+## Polymorphism
+
+## Interface
+
+# Struktur Folder / Package
+
+# Cara Menggunakan Program
