@@ -50,3 +50,18 @@
 # Library dan Framework
 
 # Cara Menggunakan Program
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb245702-8739-4645-95c6-22ad418ba9e4" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ddeb1a04-65f1-4be0-bc5a-26207e68f844" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b5173d4-fa7f-48ba-8ae1-287c843786d1" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8e9ac19-8ba8-4828-a1b2-1c50098f5e07" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/70563408-7578-4c96-95b9-e7a54efcfb6d" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1a3d9267-b811-489c-87d2-6822d3f3e4ea" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/788082c8-150f-45d5-ab7e-9177acbcf422" />
+
