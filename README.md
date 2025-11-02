@@ -1,9 +1,16 @@
 # SISTEM PENDISTRIBUSIAN AIR BERSIH
 
 # USE CASE
-<img width="943" height="1391" alt="Copy of Flowchart CAPSTONE-USE CASE drawio" src="https://github.com/user-attachments/assets/c408893b-f4b9-46a7-890e-5c41746886f4" />
+
+![Copy of Flowchart CAPSTONE-USE CASE](https://github.com/user-attachments/assets/fdb67d80-0577-4bc1-bffb-c8f7085cc1ff)
 
 # Deskripsi Singkat Program
+
+Air bersih merupakan kebutuhan dasar yang memiliki peran penting dalam menunjang kehidupan manusia, baik untuk kebutuhan sehari-hari, kesehatan, maupun kebersihan lingkungan. Ketersediaan air yang layak dan aman menjadi salah satu indikator kesejahteraan masyarakat serta kualitas pembangunan suatu daerah. Namun, di Indonesia masih banyak wilayah yang menghadapi kendala dalam memperoleh air bersih akibat pertumbuhan penduduk yang pesat, pencemaran lingkungan, dan pengelolaan sumber daya air yang belum optimal. Kondisi ini menyebabkan ketimpangan dalam distribusi air bersih, di mana sebagian masyarakat menikmati pasokan air mencukupi sementara sebagian lainnya masih kekurangan.
+
+Permasalahan air bersih tidak hanya menyangkut jumlah air yang tersedia, tetapi juga bagaimana air tersebut dikelola dan didistribusikan agar penggunaannya merata, efisien, dan berkelanjutan. Kurangnya sistem pengawasan dan manajemen yang baik sering kali menyebabkan pemborosan sumber daya, penurunan kualitas air, serta keterlambatan dalam pendistribusian ke wilayah-wilayah yang membutuhkan. Oleh karena itu, dibutuhkan inovasi teknologi yang dapat membantu dalam proses pengelolaan dan distribusi air secara terukur, cepat, dan transparan.
+
+Melalui pemanfaatan sistem berbasis data, seluruh proses distribusi air dapat dicatat, dianalisis, dan dipantau secara sistematis. Sistem ini tidak hanya memudahkan pengelola dalam melakukan pendistribusian air ke berbagai daerah sesuai kebutuhan, tetapi juga dapat memastikan bahwa kualitas air yang disalurkan tetap dalam kondisi aman untuk digunakan masyarakat. Dengan adanya sistem ini, diharapkan proses pendistribusian air dapat berjalan lebih efisien, transparan, dan tepat sasaran demi tercapainya kehidupan masyarakat yang sehat dan lingkungan yang lestari.
 
 # Fitur Program
 
