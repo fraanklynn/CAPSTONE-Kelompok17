@@ -6,11 +6,14 @@
 
 # Deskripsi Singkat Program
 
-Air bersih merupakan kebutuhan dasar yang memiliki peran penting dalam menunjang kehidupan manusia, baik untuk kebutuhan sehari-hari, kesehatan, maupun kebersihan lingkungan. Ketersediaan air yang layak dan aman menjadi salah satu indikator kesejahteraan masyarakat serta kualitas pembangunan suatu daerah. Namun, di Indonesia masih banyak wilayah yang menghadapi kendala dalam memperoleh air bersih akibat pertumbuhan penduduk yang pesat, pencemaran lingkungan, dan pengelolaan sumber daya air yang belum optimal. Kondisi ini menyebabkan ketimpangan dalam distribusi air bersih, di mana sebagian masyarakat menikmati pasokan air mencukupi sementara sebagian lainnya masih kekurangan.
+Program **Sistem Pendistribusian Air Bersih** adalah aplikasi berbasis Java yang dirancang untuk membantu pengelolaan data dan proses distribusi air bersih secara terstruktur. Aplikasi ini memiliki dua jenis pengguna utama, yaitu **admin** dan **warga**, yang masing-masing memiliki hak akses dan fungsi berbeda.
 
-Permasalahan air bersih tidak hanya menyangkut jumlah air yang tersedia, tetapi juga bagaimana air tersebut dikelola dan didistribusikan agar penggunaannya merata, efisien, dan berkelanjutan. Kurangnya sistem pengawasan dan manajemen yang baik sering kali menyebabkan pemborosan sumber daya, penurunan kualitas air, serta keterlambatan dalam pendistribusian ke wilayah-wilayah yang membutuhkan. Oleh karena itu, dibutuhkan inovasi teknologi yang dapat membantu dalam proses pengelolaan dan distribusi air secara terukur, cepat, dan transparan.
+Admin memiliki peran penting dalam mengelola sistem, seperti menambah, melihat, mengubah, dan menghapus data sumber air, melakukan uji kualitas air, serta mencatat dan memantau proses pendistribusian air ke berbagai daerah. Selain itu, admin juga dapat melihat dan menindaklanjuti laporan yang dibuat oleh warga untuk memastikan distribusi dan kualitas air berjalan dengan baik.
 
-Melalui pemanfaatan sistem berbasis data, seluruh proses distribusi air dapat dicatat, dianalisis, dan dipantau secara sistematis. Sistem ini tidak hanya memudahkan pengelola dalam melakukan pendistribusian air ke berbagai daerah sesuai kebutuhan, tetapi juga dapat memastikan bahwa kualitas air yang disalurkan tetap dalam kondisi aman untuk digunakan masyarakat. Dengan adanya sistem ini, diharapkan proses pendistribusian air dapat berjalan lebih efisien, transparan, dan tepat sasaran demi tercapainya kehidupan masyarakat yang sehat dan lingkungan yang lestari.
+Sementara itu, warga dapat melakukan registrasi dan login ke sistem, membuat laporan terkait kondisi air di wilayahnya, serta melihat riwayat laporan yang pernah dibuat. Dengan sistem ini, proses pengawasan dan distribusi air bersih dapat dilakukan lebih efisien, transparan, dan mudah dipantau oleh semua pihak yang terlibat.
+
+Seluruh data pada program ini tersimpan dalam basis data relasional yang terhubung antar entitas seperti **pengguna, sumber_air, kualitas_air, distribusi_air, daerah,** dan **laporan**, sehingga mendukung pengelolaan informasi secara terintegrasi dan akurat.
+
 
 # Fitur Program
 
