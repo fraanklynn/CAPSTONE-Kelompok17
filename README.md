@@ -35,25 +35,37 @@ Seluruh data pada program ini tersimpan dalam basis data relasional yang terhubu
 
 ## Controller
 
+Controller digunakan untuk mengatur alur logika antara tampilan dan data. Package ini menangani interaksi pengguna dari antarmuka dan meneruskannya ke bagian yang memproses data.
+
 <img width="298" height="93" alt="image" src="https://github.com/user-attachments/assets/3fc86d82-a74e-41b3-a080-4e520c804368" />
 
 ## DAO
+
+DAO berfungsi untuk menghubungkan program dengan database. Semua proses pengambilan, penyimpanan, pembaruan, dan penghapusan data dilakukan di package ini.
 
 <img width="297" height="157" alt="image" src="https://github.com/user-attachments/assets/df885a71-fe99-4811-beb8-52594976cce7" />
 
 ## DAO Interface
 
+DAO.Interfaces berisi interface yang mendefinisikan struktur dasar dari class DAO agar lebih terorganisir dan mudah dikembangkan.
+
 <img width="297" height="137" alt="image" src="https://github.com/user-attachments/assets/17b799ac-89dd-4a25-9f9f-41de5208f776" />
 
 ## Main
+
+Main berisi class utama yang menjalankan program dan menjadi titik awal aplikasi dimulai.
 
 <img width="294" height="46" alt="image" src="https://github.com/user-attachments/assets/0e9d8c6b-d4a5-495a-af2d-890d1c44b10d" />
 
 ## Model
 
+Model digunakan untuk merepresentasikan struktur data dari setiap tabel di database. Setiap class di package ini berfungsi sebagai model dari entitas yang ada.
+
 <img width="291" height="201" alt="image" src="https://github.com/user-attachments/assets/e93a9842-bf30-49d3-9097-af4a8a497828" />
 
 ## Service
+
+
 
 <img width="298" height="49" alt="image" src="https://github.com/user-attachments/assets/1d7d72a7-0420-4ac6-9a64-74a367bd843a" />
 
