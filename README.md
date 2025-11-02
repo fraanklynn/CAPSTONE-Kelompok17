@@ -51,49 +51,49 @@
 
 # Cara Menggunakan Program
 
+1. Gambar di bawah menunjukkan tampilan dari menu utama. Jika belum memiliki akun, warga harus melakukan registrasi terlebih dahulu.
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb245702-8739-4645-95c6-22ad418ba9e4" />
+
+2. Pada menu registrasi warga diminta untuk memasukkan Nama, Username, Password, No HP, dan Daerah.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ddeb1a04-65f1-4be0-bc5a-26207e68f844" />
 
+3. Registrasi berhasil.
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8b5173d4-fa7f-48ba-8ae1-287c843786d1" />
+
+4. Setelah berhasil melakukan registrasi maka tampilan akan kembali ke menu utama. Lalu masukkan username dan password yang telah diregistrasi tadi untuk melakukan login.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8e9ac19-8ba8-4828-a1b2-1c50098f5e07" />
 
+5. Login berhasil.
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/70563408-7578-4c96-95b9-e7a54efcfb6d" />
+
+6. Setelah berhasil melakukan login maka akan muncul tampilan menu warga. Di sini terdapat beberapa menu yaitu menu Buat Laporan dan Lihat Riwayat Distribusi.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1a3d9267-b811-489c-87d2-6822d3f3e4ea" />
 
+7. Masuk ke menu Buat Laporan. Di sini warga bisa membuat laporan terkait dengan keluhan tentang air pada daerahnya masing - masing. Jika telah memasukkan Tanggal dan Deskripsi warga bisa langsung menekan tombol kirim untuk mengirimkan laporan.
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/788082c8-150f-45d5-ab7e-9177acbcf422" />
+
+8. Laporan berhasil dikirim.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8574411e-f9ec-40ae-8f83-6a877dd50a8f" />
 
+9. Masuk ke menu riwayat distribusi. Di sini warga bisa melihat daerah mana saja yang telah mendapatkan distribusi air.
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ff4b8aa4-3c4c-41d9-8176-60d7ccaf10a3" />
+
+10. Jika warga menekan tombol kembali setelah warga selesai mengirimkan laporan ataupun melihat riwayat distribusi maka tampilan akan kembali ke menu warga.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5f3bdd3-8fb0-4997-943c-4cde935e0f02" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/42b6d9c8-21d6-408e-ada0-8b24d68614fc" />
+11. Jika warga menekan tombol Log out pada menu warga tadi maka tampilan akan kembali ke menu utama.
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/95ac920c-2766-4704-b3c3-03e06652d2aa" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/00546f45-eb14-49d8-be69-95c1ec6884a5" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31897000-ade4-4d55-a7b2-40f290605833" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/222f73ef-eded-49d0-8441-60c25a1e4049" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/54b6c39a-17fc-4572-9295-c2cfa77cf957" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9339d2e5-4fbb-47e2-8d53-bfe7ddd7eb26" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/10c32361-064a-4684-b5ec-99b9429da7cb" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d6afd857-0244-4f4b-9fbe-2a76557a4784" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f17491b-ab36-46df-8502-ac283d15e26c" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d19b5d2f-e2f0-480d-b5eb-4b3a0fbd7e55" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c14d79c-d3fe-4c9c-8f47-5d29f94482e4" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e93b608f-1382-4b18-a281-edf1e807a2b4" />
 
 
 
