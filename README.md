@@ -33,51 +33,57 @@ Seluruh data pada program ini tersimpan dalam basis data relasional yang terhubu
 
 <img width="305" height="355" alt="image" src="https://github.com/user-attachments/assets/2346b1df-a535-40f7-997a-b8c8702c3572" />
 
-## Controller
+## controller
 
-Controller digunakan untuk mengatur alur logika antara tampilan dan data. Package ini menangani interaksi pengguna dari antarmuka dan meneruskannya ke bagian yang memproses data.
+controller adalah package yang mengatur alur antara tampilan dan data, dan fungsinya adalah menangani aksi pengguna lalu meneruskannya ke layanan/DAO serta mengatur perpindahan tampilan
 
 <img width="298" height="93" alt="image" src="https://github.com/user-attachments/assets/3fc86d82-a74e-41b3-a080-4e520c804368" />
 
-## DAO
+## dao
 
-DAO berfungsi untuk menghubungkan program dengan database. Semua proses pengambilan, penyimpanan, pembaruan, dan penghapusan data dilakukan di package ini.
+dao adalah package yang mengelola akses ke database, dan fungsinya adalah menjalankan operasi CRUD serta mengeksekusi query.
 
 <img width="297" height="157" alt="image" src="https://github.com/user-attachments/assets/df885a71-fe99-4811-beb8-52594976cce7" />
 
-## DAO Interface
+## dao.interfaces
 
-DAO.Interfaces berisi interface yang mendefinisikan struktur dasar dari class DAO agar lebih terorganisir dan mudah dikembangkan.
+dao.interfaces adalah package yang berisi kontrak/antarmuka DAO, dan fungsinya adalah menstandarkan metode akses data agar implementasinya konsisten dan mudah diganti.
 
 <img width="297" height="137" alt="image" src="https://github.com/user-attachments/assets/17b799ac-89dd-4a25-9f9f-41de5208f776" />
 
-## Main
+## main
 
-Main berisi class utama yang menjalankan program dan menjadi titik awal aplikasi dimulai.
+main adalah package yang memuat titik masuk aplikasi, dan fungsinya adalah menjalankan program serta memanggil tampilan awal.
 
 <img width="294" height="46" alt="image" src="https://github.com/user-attachments/assets/0e9d8c6b-d4a5-495a-af2d-890d1c44b10d" />
 
-## Model
+## model
 
-Model digunakan untuk merepresentasikan struktur data dari setiap tabel di database. Setiap class di package ini berfungsi sebagai model dari entitas yang ada.
+model adalah package yang merepresentasikan entitas data, dan fungsinya adalah menyimpan struktur dan atribut objek sesuai tabel database.
 
 <img width="291" height="201" alt="image" src="https://github.com/user-attachments/assets/e93a9842-bf30-49d3-9097-af4a8a497828" />
 
-## Service
+## service
 
-
+service adalah package yang menampung logika bisnis, dan fungsinya adalah memproses/validasi data dan mengorkestrasi pemanggilan DAO sebelum ditampilkan.
 
 <img width="298" height="49" alt="image" src="https://github.com/user-attachments/assets/1d7d72a7-0420-4ac6-9a64-74a367bd843a" />
 
-## Util
+## util
+
+util adalah package yang berisi utilitas umum, dan fungsinya adalah menyediakan bantuan seperti koneksi database, validasi, dan notifikasi.
 
 <img width="297" height="66" alt="image" src="https://github.com/user-attachments/assets/562eee7d-f4d3-4883-b6a6-46fb12b64b1b" />
 
 ## View1
 
+view1 adalah package yang memuat antarmuka pengguna (GUI), dan fungsinya adalah menampilkan form, tabel, dan dialog untuk interaksi dengan pengguna.
+
 <img width="277" height="500" alt="image" src="https://github.com/user-attachments/assets/49d8ee12-f0c4-46bf-8c7d-df0c88449d38" />
 
 ## Libraries
+
+Libraries adalah “package” yang menampung semua dependensi eksternal proyek, dan fungsinya adalah menyediakan pustaka pihak ketiga yang dibutuhkan saat compile dan runtime.
 
 <img width="378" height="95" alt="image" src="https://github.com/user-attachments/assets/ed43fa5a-88ee-4e3f-b88b-9dd999ed2c2d" />
 
